@@ -12,15 +12,16 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: PAULA VITORIA BRAGA BESSA
+- Matricula: 1557309
+- Proposta de projeto escolhida: PORTAL DE NOTICIAS
+- Breve descrição sobre seu projeto: Meu portal de notícias por enquanto está bem básico, fiz somente as telas com as notícias e as notícias individuais, imagino que ao longo das atividades iremos melhorar mais.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<Print versão respansiva 1 coluna - CSS Puro.png>)
+![alt text](<Print versão respansiva 2 colunas - CSS Puro.png>)
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<Print bootstrap.png>)
